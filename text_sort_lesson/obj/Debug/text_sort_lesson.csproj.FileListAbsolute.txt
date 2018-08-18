@@ -1,0 +1,10 @@
+C:\csharp\text_sort_lesson\text_sort_lesson\bin\Debug\text_sort_lesson.exe.config
+C:\csharp\text_sort_lesson\text_sort_lesson\bin\Debug\text_sort_lesson.exe
+C:\csharp\text_sort_lesson\text_sort_lesson\bin\Debug\text_sort_lesson.pdb
+C:\csharp\text_sort_lesson\text_sort_lesson\obj\Debug\text_sort_lesson.csprojAssemblyReference.cache
+C:\csharp\text_sort_lesson\text_sort_lesson\obj\Debug\text_sort_lesson.Properties.Resources.resources
+C:\csharp\text_sort_lesson\text_sort_lesson\obj\Debug\text_sort_lesson.csproj.GenerateResource.cache
+C:\csharp\text_sort_lesson\text_sort_lesson\obj\Debug\text_sort_lesson.csproj.CoreCompileInputs.cache
+C:\csharp\text_sort_lesson\text_sort_lesson\obj\Debug\text_sort_lesson.exe
+C:\csharp\text_sort_lesson\text_sort_lesson\obj\Debug\text_sort_lesson.pdb
+C:\csharp\text_sort_lesson\text_sort_lesson\obj\Debug\text_sort_lesson.IndexerForm.resources
